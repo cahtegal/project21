@@ -1,213 +1,299 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
-MERGED from [com.android.support:design:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/0af525f55e8f99ac066a398609537bfb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/615c97e40bce752fe6512ef19b4827ce/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7d3251e213f73e1716caf945ee5c94dc/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/be9a8ff3835d7b0be76e4646cfe57db7/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:customtabs:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/97051c9ba1e3018b27033c435927c41d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/76b1ff32eba44a40765b59574e2d912d/AndroidManifest.xml:2:1-11:12
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/14c73aa78f772a1a14205d346967f7a3/AndroidManifest.xml:2:1-17:12
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/999effaa5fb469395c68e4a02961f090/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/106f0b21cd97b2337c48c383777c1fff/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:17:1-36:12
-MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/ef54be3fc6b09301b965c4619063657d/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/13310f53290e9388b4be92f843fbd132/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2178e0547e49f8220311912433d1cb3a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f365df15a0848650237f01dc77e6e003/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/96fb9f60733b343aeb1252a865fb07bd/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7f38c1acca500ab96af03c6b4ee3c2d2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d3ee3d1e1c035e20f7165761f4274c6d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/00f67846472afede4a021c12cb2e6707/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/cd82f01523a5734be2d14182316c1700/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/81fe0591469eefeb0d63ebf49ce8c609/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/87e89efd01f3e37d623e68bd5b94c748/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/84f487bff36c822c41285135ea226fc4/AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/66e421b36a6d6b87061efebb3f398006/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bda55ad6ad80b622541b3ba5cf3a762c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3d395840ede9eafb42f6a33606b86f84/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/444fff7bd78d93dad992c7fcd6842a63/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/512216129e51c967f3cb4130409b4e3c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5cd598491abd2c542b35a04d3c1a9ee3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/855133d0a80477f9d490fa8fce262336/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.0.aar/fa22f07f864a8606ab466164ebb6bc81/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/b0a962829af8bb846fc33ffc98aa47e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7270d24c6e9eac51eb93916cd7b49a5e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/b1d94aa16ef660b5649ab621ea32a1fc/AndroidManifest.xml:2:1-17:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/d79f447661ee2019d6e3f492d01c27c5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2d95d2e1b47b18e3976010258fc25c0c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.0.aar/e9bf97ea8f87e858a69cde2d53ec3fad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/86470ecc8a06d4c35af226845a9cc556/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/27377a2709e46bab05cdf16f37003d5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/05edec84008973dcfdc666b11c85d0c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1b6bfbea50b4ab856c938152307d5e33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/071a6133cd4ed1af61dbc2c953db523b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bb20dce563a1182139fcfa1c0eb4148b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/16edb3f3988f86fd4adfd9dc1c98bf08/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/18bc1c8564084c2b39aa2906015a852e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/34b9c8b110953a90b80c3d9cb5b5b8e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ccf977255de62399730ae8b43e86ecdd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b3573965df4088e2cfd6cbc53974aa5b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/22fd8c5ddecfafb7a8602322d70108a5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c83d97aaa1699c6dee284436a2ef6616/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cbe6d8a400c84ec943a83b74ec404e94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/387a009830e09de69340187d63622118/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/13d4e164ba1db3519634c649fdf9cc6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f8d43429a945fc636b3ff57ce2002280/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf47b8d043e706c3cd0ce0e75bc07fd1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ec37212d5d67e8bb597ca36448a3cf/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b32f64d4e4fd1a38c86fe8511bfd97c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/923645ade327e11a5d9f582ef1307a85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1c661ae221240eafe5c7c1500e8fbb9b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0c02b6a1ca0d07c7186e06eb913b4022/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cf29bfd686d74d4c1a8f680ca3b1a48d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/049499f15b0281bd23be796c84abddb6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e0548474dbd68bcdb196e438810f87b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bfd441f1bb58a791dcaf167384b18b37/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/75c35882acc891d9c04cd2097c8d3206/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/29151ee3b95b49290c4670a8ca07addc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0fca0601664673f08af04fb40fa9040f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.0.aar/00494e1db30dd7dc62350a53a5d380cb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0b432bb45d750a5edaae163fa34b6311/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:3:5-38
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:1-42:12
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:23:5-67
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:6:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:24:5-79
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:8:5-40:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/76b1ff32eba44a40765b59574e2d912d/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/76b1ff32eba44a40765b59574e2d912d/AndroidManifest.xml:9:5-20
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/14c73aa78f772a1a14205d346967f7a3/AndroidManifest.xml:11:5-15:19
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/14c73aa78f772a1a14205d346967f7a3/AndroidManifest.xml:11:5-15:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/106f0b21cd97b2337c48c383777c1fff/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/106f0b21cd97b2337c48c383777c1fff/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:26:5-34:19
-MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/ef54be3fc6b09301b965c4619063657d/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/ef54be3fc6b09301b965c4619063657d/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/13310f53290e9388b4be92f843fbd132/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/13310f53290e9388b4be92f843fbd132/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/84f487bff36c822c41285135ea226fc4/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/84f487bff36c822c41285135ea226fc4/AndroidManifest.xml:22:5-20
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:8:5-43:19
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/512216129e51c967f3cb4130409b4e3c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/512216129e51c967f3cb4130409b4e3c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7270d24c6e9eac51eb93916cd7b49a5e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7270d24c6e9eac51eb93916cd7b49a5e/AndroidManifest.xml:9:5-20
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/b1d94aa16ef660b5649ab621ea32a1fc/AndroidManifest.xml:11:5-15:19
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/b1d94aa16ef660b5649ab621ea32a1fc/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2d95d2e1b47b18e3976010258fc25c0c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2d95d2e1b47b18e3976010258fc25c0c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.0.aar/e9bf97ea8f87e858a69cde2d53ec3fad/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.0.aar/e9bf97ea8f87e858a69cde2d53ec3fad/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/86470ecc8a06d4c35af226845a9cc556/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/86470ecc8a06d4c35af226845a9cc556/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf47b8d043e706c3cd0ce0e75bc07fd1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf47b8d043e706c3cd0ce0e75bc07fd1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ec37212d5d67e8bb597ca36448a3cf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ec37212d5d67e8bb597ca36448a3cf/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.0.aar/00494e1db30dd7dc62350a53a5d380cb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.0.aar/00494e1db30dd7dc62350a53a5d380cb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0b432bb45d750a5edaae163fa34b6311/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0b432bb45d750a5edaae163fa34b6311/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf47b8d043e706c3cd0ce0e75bc07fd1/AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:11:9-41
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:12:9-54
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:10:9-43
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:14:9-40
-activity#com.ziestudio.cariweton.MenuUtama
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:15:9-21:20
-	android:theme
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:17:13-63
-	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:16:13-38
-intent-filter#action:name:android.intent.action.MAIN
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:18:13-20:29
-action#android.intent.action.MAIN
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:19:17-69
-	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:19:25-66
-activity#com.ziestudio.cariweton.Detail
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:22:9-44
-	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:22:19-41
-activity#com.google.android.gms.ads.AdActivity
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:23:9-26:64
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:29:9-33:64
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:29:9-33:64
-	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:32:13-37
-	android:configChanges
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:25:13-122
-	android:theme
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:26:13-61
-	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:24:13-65
-activity#com.ziestudio.cariweton.Splash
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:27:9-37:20
-	android:screenOrientation
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:30:13-49
-	android:noHistory
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:29:13-37
-	android:theme
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:31:13-63
-	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:28:13-35
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:32:13-36:29
-category#android.intent.category.LAUNCHER
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:35:17-77
-	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:35:27-74
-activity#com.ziestudio.cariweton.Hasil
-ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:38:9-39:65
-	android:theme
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:39:13-63
-	android:name
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml:38:19-40
-uses-sdk
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/0af525f55e8f99ac066a398609537bfb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/0af525f55e8f99ac066a398609537bfb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/615c97e40bce752fe6512ef19b4827ce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/615c97e40bce752fe6512ef19b4827ce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7d3251e213f73e1716caf945ee5c94dc/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7d3251e213f73e1716caf945ee5c94dc/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/be9a8ff3835d7b0be76e4646cfe57db7/AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/be9a8ff3835d7b0be76e4646cfe57db7/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:customtabs:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/97051c9ba1e3018b27033c435927c41d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/97051c9ba1e3018b27033c435927c41d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/76b1ff32eba44a40765b59574e2d912d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/76b1ff32eba44a40765b59574e2d912d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/14c73aa78f772a1a14205d346967f7a3/AndroidManifest.xml:7:5-9:41
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/14c73aa78f772a1a14205d346967f7a3/AndroidManifest.xml:7:5-9:41
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/999effaa5fb469395c68e4a02961f090/AndroidManifest.xml:7:5-9:41
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/999effaa5fb469395c68e4a02961f090/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/106f0b21cd97b2337c48c383777c1fff/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/106f0b21cd97b2337c48c383777c1fff/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2b555863e793da72e30a62e33638aa0b/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/ef54be3fc6b09301b965c4619063657d/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/ef54be3fc6b09301b965c4619063657d/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/13310f53290e9388b4be92f843fbd132/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/13310f53290e9388b4be92f843fbd132/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2178e0547e49f8220311912433d1cb3a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/2178e0547e49f8220311912433d1cb3a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f365df15a0848650237f01dc77e6e003/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f365df15a0848650237f01dc77e6e003/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/96fb9f60733b343aeb1252a865fb07bd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/96fb9f60733b343aeb1252a865fb07bd/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7f38c1acca500ab96af03c6b4ee3c2d2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7f38c1acca500ab96af03c6b4ee3c2d2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d3ee3d1e1c035e20f7165761f4274c6d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d3ee3d1e1c035e20f7165761f4274c6d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/00f67846472afede4a021c12cb2e6707/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/00f67846472afede4a021c12cb2e6707/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/cd82f01523a5734be2d14182316c1700/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/cd82f01523a5734be2d14182316c1700/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/81fe0591469eefeb0d63ebf49ce8c609/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/81fe0591469eefeb0d63ebf49ce8c609/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/87e89efd01f3e37d623e68bd5b94c748/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/87e89efd01f3e37d623e68bd5b94c748/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/84f487bff36c822c41285135ea226fc4/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/84f487bff36c822c41285135ea226fc4/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/66e421b36a6d6b87061efebb3f398006/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/66e421b36a6d6b87061efebb3f398006/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bda55ad6ad80b622541b3ba5cf3a762c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bda55ad6ad80b622541b3ba5cf3a762c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3d395840ede9eafb42f6a33606b86f84/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3d395840ede9eafb42f6a33606b86f84/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/444fff7bd78d93dad992c7fcd6842a63/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/444fff7bd78d93dad992c7fcd6842a63/AndroidManifest.xml:20:5-44
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/be9a8ff3835d7b0be76e4646cfe57db7/AndroidManifest.xml:23:9-59
-	android:targetSdkVersion
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-	android:minSdkVersion
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-		ADDED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-		INJECTED from /home/regopantes_apps/Project Android/Mine/Cari Weton/app/src/main/AndroidManifest.xml
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/13310f53290e9388b4be92f843fbd132/AndroidManifest.xml:23:9-25:69
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:14:9-40
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:16:9-18:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/13310f53290e9388b4be92f843fbd132/AndroidManifest.xml:25:13-66
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:18:13-67
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/regopantes_apps/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/13310f53290e9388b4be92f843fbd132/AndroidManifest.xml:24:13-58
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:17:13-69
+activity#com.nextwin.cariweton.MenuUtama
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:theme
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:20:13-38
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:22:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:23:25-66
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:26:9-29:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:27:13-65
+activity#com.nextwin.cariweton.Splash
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:30:9-40:20
+	android:screenOrientation
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:33:13-49
+	android:noHistory
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:32:13-37
+	android:theme
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:34:13-63
+	android:name
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:31:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:35:13-39:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:38:27-74
+activity#com.nextwin.cariweton.Hasil
+ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:41:9-42:65
+	android:theme
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:42:13-63
+	android:name
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:41:19-40
+uses-sdk
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/512216129e51c967f3cb4130409b4e3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/512216129e51c967f3cb4130409b4e3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5cd598491abd2c542b35a04d3c1a9ee3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5cd598491abd2c542b35a04d3c1a9ee3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/855133d0a80477f9d490fa8fce262336/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/855133d0a80477f9d490fa8fce262336/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.0.aar/fa22f07f864a8606ab466164ebb6bc81/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.0.aar/fa22f07f864a8606ab466164ebb6bc81/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/b0a962829af8bb846fc33ffc98aa47e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/b0a962829af8bb846fc33ffc98aa47e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7270d24c6e9eac51eb93916cd7b49a5e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/7270d24c6e9eac51eb93916cd7b49a5e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/b1d94aa16ef660b5649ab621ea32a1fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/b1d94aa16ef660b5649ab621ea32a1fc/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/d79f447661ee2019d6e3f492d01c27c5/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.8] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.8.aar/d79f447661ee2019d6e3f492d01c27c5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2d95d2e1b47b18e3976010258fc25c0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2d95d2e1b47b18e3976010258fc25c0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.0.aar/e9bf97ea8f87e858a69cde2d53ec3fad/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.0.aar/e9bf97ea8f87e858a69cde2d53ec3fad/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/86470ecc8a06d4c35af226845a9cc556/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/86470ecc8a06d4c35af226845a9cc556/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/27377a2709e46bab05cdf16f37003d5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/27377a2709e46bab05cdf16f37003d5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/05edec84008973dcfdc666b11c85d0c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/05edec84008973dcfdc666b11c85d0c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1b6bfbea50b4ab856c938152307d5e33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/1b6bfbea50b4ab856c938152307d5e33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/071a6133cd4ed1af61dbc2c953db523b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/071a6133cd4ed1af61dbc2c953db523b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bb20dce563a1182139fcfa1c0eb4148b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/bb20dce563a1182139fcfa1c0eb4148b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/16edb3f3988f86fd4adfd9dc1c98bf08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/16edb3f3988f86fd4adfd9dc1c98bf08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/18bc1c8564084c2b39aa2906015a852e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/18bc1c8564084c2b39aa2906015a852e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/34b9c8b110953a90b80c3d9cb5b5b8e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/34b9c8b110953a90b80c3d9cb5b5b8e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ccf977255de62399730ae8b43e86ecdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ccf977255de62399730ae8b43e86ecdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b3573965df4088e2cfd6cbc53974aa5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b3573965df4088e2cfd6cbc53974aa5b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/22fd8c5ddecfafb7a8602322d70108a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/22fd8c5ddecfafb7a8602322d70108a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c83d97aaa1699c6dee284436a2ef6616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c83d97aaa1699c6dee284436a2ef6616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cbe6d8a400c84ec943a83b74ec404e94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/cbe6d8a400c84ec943a83b74ec404e94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/387a009830e09de69340187d63622118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/387a009830e09de69340187d63622118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/13d4e164ba1db3519634c649fdf9cc6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/13d4e164ba1db3519634c649fdf9cc6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f8d43429a945fc636b3ff57ce2002280/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f8d43429a945fc636b3ff57ce2002280/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf47b8d043e706c3cd0ce0e75bc07fd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/bf47b8d043e706c3cd0ce0e75bc07fd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ec37212d5d67e8bb597ca36448a3cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ec37212d5d67e8bb597ca36448a3cf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b32f64d4e4fd1a38c86fe8511bfd97c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b32f64d4e4fd1a38c86fe8511bfd97c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/923645ade327e11a5d9f582ef1307a85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/923645ade327e11a5d9f582ef1307a85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1c661ae221240eafe5c7c1500e8fbb9b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/1c661ae221240eafe5c7c1500e8fbb9b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0c02b6a1ca0d07c7186e06eb913b4022/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0c02b6a1ca0d07c7186e06eb913b4022/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cf29bfd686d74d4c1a8f680ca3b1a48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/cf29bfd686d74d4c1a8f680ca3b1a48d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/049499f15b0281bd23be796c84abddb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/049499f15b0281bd23be796c84abddb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e0548474dbd68bcdb196e438810f87b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e0548474dbd68bcdb196e438810f87b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bfd441f1bb58a791dcaf167384b18b37/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bfd441f1bb58a791dcaf167384b18b37/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/75c35882acc891d9c04cd2097c8d3206/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/75c35882acc891d9c04cd2097c8d3206/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/29151ee3b95b49290c4670a8ca07addc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/29151ee3b95b49290c4670a8ca07addc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0fca0601664673f08af04fb40fa9040f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0fca0601664673f08af04fb40fa9040f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.0.aar/00494e1db30dd7dc62350a53a5d380cb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.0.aar/00494e1db30dd7dc62350a53a5d380cb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0b432bb45d750a5edaae163fa34b6311/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/0b432bb45d750a5edaae163fa34b6311/AndroidManifest.xml:5:5-44
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.0.aar/fa22f07f864a8606ab466164ebb6bc81/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.0.aar/595a25f7278b08b1b58a2b80371531d9/AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.2.aar/b8c8402b45ea9442d648fa0904d3c5fb/AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/86470ecc8a06d4c35af226845a9cc556/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/86470ecc8a06d4c35af226845a9cc556/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/86470ecc8a06d4c35af226845a9cc556/AndroidManifest.xml:24:13-58

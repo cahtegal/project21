@@ -1,0 +1,4 @@
+#Tue Nov 13 06:15:17 WIB 2018
+base.0=/home/regopantes/ProjectApps/PlayStore/Cari Weton/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
