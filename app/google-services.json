@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "111266568447",
+    "firebase_url": "https://artikel-fdc76.firebaseio.com",
+    "project_id": "artikel-fdc76",
+    "storage_bucket": "artikel-fdc76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111266568447:android:43257b5c16e35504",
+        "android_client_info": {
+          "package_name": "com.hidevs.cariweton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111266568447-63jtv3o0ear8li4mmkni2aurs85hv3it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfh-TxheteWmTug5Np2hCaWzaUYJnmhkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111266568447:android:a2e641493651caf0",
+        "android_client_info": {
+          "package_name": "com.hidevs.weton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111266568447-63jtv3o0ear8li4mmkni2aurs85hv3it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfh-TxheteWmTug5Np2hCaWzaUYJnmhkk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

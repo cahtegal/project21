@@ -4,7 +4,7 @@
             "outputFile": "/home/regopantes/ProjectApps/PlayStore/Cari Weton/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "/home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/512216129e51c967f3cb4130409b4e3c/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/46c5be5b4865252eb5b29dcb35a05090/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/5cd598491abd2c542b35a04d3c1a9ee3/res/values-large-v4/values-large-v4.xml",
+                    "source": "/home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b6ba230c7a4a503dfcdb92f88c2c5a6f/res/values-large-v4/values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

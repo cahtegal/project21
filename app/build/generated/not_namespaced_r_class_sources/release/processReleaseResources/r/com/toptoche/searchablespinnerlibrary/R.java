@@ -12,13 +12,13 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int hintText = 0x7f0300f4;
+        public static final int hintText = 0x7f0300f7;
     }
     public static final class id {
         private id() {}
 
-        public static final int listItems = 0x7f08006e;
-        public static final int search = 0x7f080097;
+        public static final int listItems = 0x7f080073;
+        public static final int search = 0x7f08009c;
     }
     public static final class layout {
         private layout() {}
@@ -33,7 +33,7 @@ public final class R {
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] SearchableSpinner = { 0x7f0300f4 };
+        public static final int[] SearchableSpinner = { 0x7f0300f7 };
         public static final int SearchableSpinner_hintText = 0;
     }
 }

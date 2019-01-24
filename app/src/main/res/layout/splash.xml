@@ -10,5 +10,5 @@
         android:layout_width="200dp"
         android:layout_height="200dp"
         android:layout_centerInParent="true"
-        app:srcCompat="@drawable/logo_next" />
+        app:srcCompat="@drawable/logo_cari_weton" />
 </RelativeLayout>
