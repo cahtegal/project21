@@ -53,6 +53,7 @@ public class Hasil extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hasil);
         deklarasi();
+        interstisial();
         tabLayout.setupWithViewPager(viewPager);
         tabLayout.setOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
@@ -160,14 +161,10 @@ public class Hasil extends AppCompatActivity {
         teksNeptu.setText("Hari "+namaHari + " = "+hitHari+", Weton "+pasaran1900[hasil]+" = "+pasaran+", Neptu = "+neptu+" ("+hitHari+"+"+pasaran+")");
         teksWeton.setText(namaHari+"("+pasaran1900[hasil]+")");
     }
-    @Override
-    public void onBackPressed() {
-        isWatak = true;
-        isJodoh = true;
-        isPekerjaan = true;
-        isRejeki = true;
+
+    public void interstisial() {
         mInterstitialAd = new InterstitialAd(this);
-        mInterstitialAd.setAdUnitId("ca-app-pub-5730449577374867/2326554986");
+        mInterstitialAd.setAdUnitId(getResources().getString(R.string.inters_admob));
         mInterstitialAd.setAdListener(new AdListener() {
 
             @Override
@@ -201,6 +198,15 @@ public class Hasil extends AppCompatActivity {
 
         AdRequest adRequest = new AdRequest.Builder().build();
         mInterstitialAd.loadAd(adRequest);
+    }
+
+    @Override
+    public void onBackPressed() {
+        isWatak = true;
+        isJodoh = true;
+        isPekerjaan = true;
+        isRejeki = true;
+        interstisial();
         finish();
     }
     

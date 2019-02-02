@@ -4,63 +4,63 @@ ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/Androi
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-70:12
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-70:12
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-70:12
-MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/46c5be5b4865252eb5b29dcb35a05090/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b6ba230c7a4a503dfcdb92f88c2c5a6f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6a50876287a0dd5ce8807605235b3567/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-ads:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/dc975d22691dd814f4335e5a9dc74d2b/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/a5ead6181d8aa30e8d4deb88da75c3c2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5a08556d100c998ebb0ec5021564e7f5/AndroidManifest.xml:2:1-11:12
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/af575b8b20d59f6c0e107409923077b6/AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/542609d871ed802e839582f6ec7cd8a2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:17:1-34:12
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:17:1-55:12
-MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c496018f182955961d5d2c83ec25644f/AndroidManifest.xml:17:1-37:12
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.9] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.9.aar/df0d636456af2a8a95bdb8865b73c1b9/AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/362ad683c1f2afc7cc2cc32d7c22bb90/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:17:1-40:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c64e288989b866496b56a2d2cb6ef60f/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:17:1-42:12
-MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/78f311901de3bbf5c540aa97f3389fce/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:17:1-30:12
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/11d900056493a62545fcd823ae4a3937/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:17:1-59:12
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/370b447b48fff2cd45e99966a8c3a4bd/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:2:1-17:12
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7320cc8a6d729c0cdb63f86d58d92501/AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/9fc9b6071ce591c70008b3107a318e54/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/9ee88cc17c9041768656645a8b20ad83/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/382015c28d6a2063a6467ce4bc555436/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7905aa84b38779ddec281c6e6f8d5865/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b725ac553ca755842d172384cebecfd9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/5bc6ca3e65e3c0b268d306131ed8f98e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e19c33575c0616282dc1133fbd97a418/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/958a82fe6c7412917ec4fc6155f759c5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e4daeeb7c948d9b055d3487a146fdf1d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/5b1ca9b0aabc86545bdc06e8b5a1ecce/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5c741e97132ddd5464c9759bd31bb54e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/488bb721049deb6c93991bbab53fde1a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b8ae8c25434fd529d7ce06fcceb53a18/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a9f60fe3abf5f2f8d2b6dfdf0e64f42a/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bf9976a417cca7be478ba01a206ce34e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ca4995c0f7753d27cb570d130547c2a8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/64c5c8734c8b6372f21ddeb3c111826e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6e9603e232822f5a3c532dc807ad22a7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/d2b8f39db09d51c68c941c1737df26ae/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b81a723cef3cd7f876c2888287107de/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6338d79e0d425afc5413ff26371ea58f/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a23c1e22910749daef325700101e4439/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fb2bb0d1053461ea7bb850024354eddb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e3b0a638e0bd6e6526162e98adf971c3/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/95075cd14acf58eeea689d8d8dc99836/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/14f8db04263fb04ed31827eceef08553/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/638349622da9652a485a56ad4b5fa030/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3b7216b5e1f16d84c07f130414c80483/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bda2608371a6dd3ca12506b9de8382ea/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2e3e022d97b5040c72d0435d0168d395/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/530cb49c3b92b30a00ea921be690aa5c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6869a718a4eb5fba9b34c72efd524441/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/d98bb0080eb7ed0815b20590df5b8708/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/73db4052c5e8a52a4bb14f8f167dd4a5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/32df7902c129b556115b6b0939973fa8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a11d40a947cd5d436778863498964b76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/b4e76a2da72ce052c4d580a9de8c8bf2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/e09f7ddd8a999f82075887259a8ba644/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56c6884e6ca416190b7f852fd60ea44e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/90a989bb3cc0db98659665a7e02d08f5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/f78aca1002ca470b21e2aacd19364f13/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/354c0d1843695f0e5482c7ee9008752a/AndroidManifest.xml:17:1-37:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.9] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.9.aar/86b2dbf88776d2caa0bd7fd08de06d35/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/4d8e4a8d19c6823aa566e26790d05a99/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/d02f55158d0ce037666318adbb2f98a9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/71f4947b764a3d5431826a7795e01f38/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/7fa59b3e19a49a06e0c80cdef919ea23/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/09b8bb4ff08725e333b8d59e9d409026/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/dcea57330ec81283479855db0f7ccb2e/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/afdf9ac9be578bc1084a5e4f0c6569ae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/291656cf059cfff075936662ed04610e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b5d197451b30513c3ec021b68410dd2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/715cea0ccbb23a601adb3037422ed06f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b31526413d529583b455c7b36db18428/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ff4d2bf4433832c5b1945633d7759e26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0c34f8eff075a609341b85f021e8058b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/da1f4479287c9e212af77d72b9d0e656/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/697241eddeaeed1cad8a8c2a523ddff4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1cb91cf9363c8550b96e25d55d1f36d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/24b267b9be3080adfc7d541c5f71392d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/02b3f401929e07f2c950e4e67b28b271/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/38fa0fa7d10cd6f2d4b84442a039b619/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/87f7b4783400bdc9a872b5aa936c948a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb99620fa34d088d80b2f826a74c3bd3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/96b82c1a1f2d230c5307158dc5603e4f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d206cce05c81b0a134b16b383480dd37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e5bb57a99d21b3cc1f6c8af0b67c3fec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4deb782df368c264065be8010ddc809b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b7d7428ae03913f36f2b78b428c572f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/112bbef29da1c7f51c5b90bbb6190e6a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fc703cda4342e652bbf3db65e7074388/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c52b05f1f898d50660e0cc3f8e9fcafa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/36a94585c0d091f48fc3e0e3103f8fa1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2ac541cb8ea47cff54ac7d0266c39732/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c9623d106ded959a05fefefa0715d181/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2578a7a878b3f4bbe9232593ddc95383/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ae7f672a2feeb4c0761a4623f5b66fc7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/98fa0eae657d2520c449cca714931b46/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/92e71000594c0d4961b2efe35eb0711e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0eef26189a3c07b690f030faede112ef/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8af8893c5db758374a7b7f6d00fe7d57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0af4db6affa55e337ba8e76df1cf60f2/AndroidManifest.xml:2:1-9:12
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-70:12
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-70:12
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:1-70:12
@@ -80,34 +80,34 @@ INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/And
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:5:5-67
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:6:5-79
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:22:5-79
 	android:name
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -124,58 +124,58 @@ ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/Androi
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:9:22-63
 application
 ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:11:5-68:19
-MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/46c5be5b4865252eb5b29dcb35a05090/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/46c5be5b4865252eb5b29dcb35a05090/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5a08556d100c998ebb0ec5021564e7f5/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5a08556d100c998ebb0ec5021564e7f5/AndroidManifest.xml:9:5-20
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/af575b8b20d59f6c0e107409923077b6/AndroidManifest.xml:11:5-15:19
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/af575b8b20d59f6c0e107409923077b6/AndroidManifest.xml:11:5-15:19
-MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/542609d871ed802e839582f6ec7cd8a2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/542609d871ed802e839582f6ec7cd8a2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:26:5-32:19
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:26:5-32:19
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:28:5-53:19
-MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c496018f182955961d5d2c83ec25644f/AndroidManifest.xml:22:5-35:19
-MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c496018f182955961d5d2c83ec25644f/AndroidManifest.xml:22:5-35:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/362ad683c1f2afc7cc2cc32d7c22bb90/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/362ad683c1f2afc7cc2cc32d7c22bb90/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:28:5-38:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c64e288989b866496b56a2d2cb6ef60f/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c64e288989b866496b56a2d2cb6ef60f/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:26:5-40:19
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:26:5-40:19
-MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/78f311901de3bbf5c540aa97f3389fce/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/78f311901de3bbf5c540aa97f3389fce/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:27:5-28:19
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/11d900056493a62545fcd823ae4a3937/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/11d900056493a62545fcd823ae4a3937/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:28:5-57:19
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/370b447b48fff2cd45e99966a8c3a4bd/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/370b447b48fff2cd45e99966a8c3a4bd/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:9:5-15:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7320cc8a6d729c0cdb63f86d58d92501/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7320cc8a6d729c0cdb63f86d58d92501/AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/9fc9b6071ce591c70008b3107a318e54/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/9fc9b6071ce591c70008b3107a318e54/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/9ee88cc17c9041768656645a8b20ad83/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/9ee88cc17c9041768656645a8b20ad83/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/382015c28d6a2063a6467ce4bc555436/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/382015c28d6a2063a6467ce4bc555436/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b81a723cef3cd7f876c2888287107de/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b81a723cef3cd7f876c2888287107de/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6338d79e0d425afc5413ff26371ea58f/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6338d79e0d425afc5413ff26371ea58f/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/d98bb0080eb7ed0815b20590df5b8708/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/d98bb0080eb7ed0815b20590df5b8708/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/73db4052c5e8a52a4bb14f8f167dd4a5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/73db4052c5e8a52a4bb14f8f167dd4a5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56c6884e6ca416190b7f852fd60ea44e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56c6884e6ca416190b7f852fd60ea44e/AndroidManifest.xml:9:5-20
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/90a989bb3cc0db98659665a7e02d08f5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/90a989bb3cc0db98659665a7e02d08f5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/f78aca1002ca470b21e2aacd19364f13/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/f78aca1002ca470b21e2aacd19364f13/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/354c0d1843695f0e5482c7ee9008752a/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/354c0d1843695f0e5482c7ee9008752a/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/4d8e4a8d19c6823aa566e26790d05a99/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/4d8e4a8d19c6823aa566e26790d05a99/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/d02f55158d0ce037666318adbb2f98a9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/d02f55158d0ce037666318adbb2f98a9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/71f4947b764a3d5431826a7795e01f38/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/71f4947b764a3d5431826a7795e01f38/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/7fa59b3e19a49a06e0c80cdef919ea23/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/7fa59b3e19a49a06e0c80cdef919ea23/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/09b8bb4ff08725e333b8d59e9d409026/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/09b8bb4ff08725e333b8d59e9d409026/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/dcea57330ec81283479855db0f7ccb2e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/dcea57330ec81283479855db0f7ccb2e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/afdf9ac9be578bc1084a5e4f0c6569ae/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/afdf9ac9be578bc1084a5e4f0c6569ae/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/291656cf059cfff075936662ed04610e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/291656cf059cfff075936662ed04610e/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b5d197451b30513c3ec021b68410dd2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b5d197451b30513c3ec021b68410dd2/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b7d7428ae03913f36f2b78b428c572f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b7d7428ae03913f36f2b78b428c572f/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/112bbef29da1c7f51c5b90bbb6190e6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/112bbef29da1c7f51c5b90bbb6190e6a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0af4db6affa55e337ba8e76df1cf60f2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0af4db6affa55e337ba8e76df1cf60f2/AndroidManifest.xml:7:5-20
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b81a723cef3cd7f876c2888287107de/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b7d7428ae03913f36f2b78b428c572f/AndroidManifest.xml:22:18-91
 	android:supportsRtl
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
@@ -230,10 +230,10 @@ ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/Androi
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:48:25-66
 activity#com.google.android.gms.ads.AdActivity
 ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:51:9-54:64
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:29:9-33:64
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:29:9-33:64
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:32:13-37
 	android:configChanges
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml:53:13-122
 	android:theme
@@ -266,124 +266,124 @@ uses-sdk
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/46c5be5b4865252eb5b29dcb35a05090/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/46c5be5b4865252eb5b29dcb35a05090/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b6ba230c7a4a503dfcdb92f88c2c5a6f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b6ba230c7a4a503dfcdb92f88c2c5a6f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6a50876287a0dd5ce8807605235b3567/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/6a50876287a0dd5ce8807605235b3567/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/dc975d22691dd814f4335e5a9dc74d2b/AndroidManifest.xml:21:5-23:62
-MERGED from [com.google.android.gms:play-services-ads:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/dc975d22691dd814f4335e5a9dc74d2b/AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/a5ead6181d8aa30e8d4deb88da75c3c2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/a5ead6181d8aa30e8d4deb88da75c3c2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5a08556d100c998ebb0ec5021564e7f5/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5a08556d100c998ebb0ec5021564e7f5/AndroidManifest.xml:5:5-7:41
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/af575b8b20d59f6c0e107409923077b6/AndroidManifest.xml:7:5-9:41
-MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/af575b8b20d59f6c0e107409923077b6/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/542609d871ed802e839582f6ec7cd8a2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/542609d871ed802e839582f6ec7cd8a2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c496018f182955961d5d2c83ec25644f/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c496018f182955961d5d2c83ec25644f/AndroidManifest.xml:20:5-44
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.9] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.9.aar/df0d636456af2a8a95bdb8865b73c1b9/AndroidManifest.xml:7:5-9:41
-MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.9] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.9.aar/df0d636456af2a8a95bdb8865b73c1b9/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/362ad683c1f2afc7cc2cc32d7c22bb90/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/362ad683c1f2afc7cc2cc32d7c22bb90/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c64e288989b866496b56a2d2cb6ef60f/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/c64e288989b866496b56a2d2cb6ef60f/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/78f311901de3bbf5c540aa97f3389fce/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/78f311901de3bbf5c540aa97f3389fce/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/11d900056493a62545fcd823ae4a3937/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/11d900056493a62545fcd823ae4a3937/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/370b447b48fff2cd45e99966a8c3a4bd/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/370b447b48fff2cd45e99966a8c3a4bd/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7320cc8a6d729c0cdb63f86d58d92501/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/7320cc8a6d729c0cdb63f86d58d92501/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/9fc9b6071ce591c70008b3107a318e54/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/9fc9b6071ce591c70008b3107a318e54/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/9ee88cc17c9041768656645a8b20ad83/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/9ee88cc17c9041768656645a8b20ad83/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/382015c28d6a2063a6467ce4bc555436/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/382015c28d6a2063a6467ce4bc555436/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7905aa84b38779ddec281c6e6f8d5865/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/7905aa84b38779ddec281c6e6f8d5865/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b725ac553ca755842d172384cebecfd9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b725ac553ca755842d172384cebecfd9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/5bc6ca3e65e3c0b268d306131ed8f98e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/5bc6ca3e65e3c0b268d306131ed8f98e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e19c33575c0616282dc1133fbd97a418/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/e19c33575c0616282dc1133fbd97a418/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/958a82fe6c7412917ec4fc6155f759c5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/958a82fe6c7412917ec4fc6155f759c5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e4daeeb7c948d9b055d3487a146fdf1d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e4daeeb7c948d9b055d3487a146fdf1d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/5b1ca9b0aabc86545bdc06e8b5a1ecce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/5b1ca9b0aabc86545bdc06e8b5a1ecce/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5c741e97132ddd5464c9759bd31bb54e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5c741e97132ddd5464c9759bd31bb54e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/488bb721049deb6c93991bbab53fde1a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/488bb721049deb6c93991bbab53fde1a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b8ae8c25434fd529d7ce06fcceb53a18/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/b8ae8c25434fd529d7ce06fcceb53a18/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a9f60fe3abf5f2f8d2b6dfdf0e64f42a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a9f60fe3abf5f2f8d2b6dfdf0e64f42a/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bf9976a417cca7be478ba01a206ce34e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bf9976a417cca7be478ba01a206ce34e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ca4995c0f7753d27cb570d130547c2a8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ca4995c0f7753d27cb570d130547c2a8/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/64c5c8734c8b6372f21ddeb3c111826e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/64c5c8734c8b6372f21ddeb3c111826e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6e9603e232822f5a3c532dc807ad22a7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/6e9603e232822f5a3c532dc807ad22a7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/d2b8f39db09d51c68c941c1737df26ae/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/d2b8f39db09d51c68c941c1737df26ae/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b81a723cef3cd7f876c2888287107de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b81a723cef3cd7f876c2888287107de/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6338d79e0d425afc5413ff26371ea58f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6338d79e0d425afc5413ff26371ea58f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a23c1e22910749daef325700101e4439/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a23c1e22910749daef325700101e4439/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fb2bb0d1053461ea7bb850024354eddb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/fb2bb0d1053461ea7bb850024354eddb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e3b0a638e0bd6e6526162e98adf971c3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/e3b0a638e0bd6e6526162e98adf971c3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/95075cd14acf58eeea689d8d8dc99836/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/95075cd14acf58eeea689d8d8dc99836/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/14f8db04263fb04ed31827eceef08553/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/14f8db04263fb04ed31827eceef08553/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/638349622da9652a485a56ad4b5fa030/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/638349622da9652a485a56ad4b5fa030/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3b7216b5e1f16d84c07f130414c80483/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3b7216b5e1f16d84c07f130414c80483/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bda2608371a6dd3ca12506b9de8382ea/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/bda2608371a6dd3ca12506b9de8382ea/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2e3e022d97b5040c72d0435d0168d395/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/2e3e022d97b5040c72d0435d0168d395/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/530cb49c3b92b30a00ea921be690aa5c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/530cb49c3b92b30a00ea921be690aa5c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6869a718a4eb5fba9b34c72efd524441/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6869a718a4eb5fba9b34c72efd524441/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/d98bb0080eb7ed0815b20590df5b8708/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/d98bb0080eb7ed0815b20590df5b8708/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/73db4052c5e8a52a4bb14f8f167dd4a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/73db4052c5e8a52a4bb14f8f167dd4a5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/32df7902c129b556115b6b0939973fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/32df7902c129b556115b6b0939973fa8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a11d40a947cd5d436778863498964b76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a11d40a947cd5d436778863498964b76/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/b4e76a2da72ce052c4d580a9de8c8bf2/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/b4e76a2da72ce052c4d580a9de8c8bf2/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/e09f7ddd8a999f82075887259a8ba644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customtabs-28.0.0.aar/e09f7ddd8a999f82075887259a8ba644/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56c6884e6ca416190b7f852fd60ea44e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/56c6884e6ca416190b7f852fd60ea44e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/90a989bb3cc0db98659665a7e02d08f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.toptoche.searchablespinner:searchablespinnerlibrary:1.3.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/searchablespinnerlibrary-1.3.1.aar/90a989bb3cc0db98659665a7e02d08f5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/f78aca1002ca470b21e2aacd19364f13/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/f78aca1002ca470b21e2aacd19364f13/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/354c0d1843695f0e5482c7ee9008752a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/354c0d1843695f0e5482c7ee9008752a/AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.9] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.9.aar/86b2dbf88776d2caa0bd7fd08de06d35/AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.9] /home/regopantes/.gradle/caches/transforms-1/files-1.1/android-gif-drawable-1.2.9.aar/86b2dbf88776d2caa0bd7fd08de06d35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/4d8e4a8d19c6823aa566e26790d05a99/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/4d8e4a8d19c6823aa566e26790d05a99/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/d02f55158d0ce037666318adbb2f98a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/d02f55158d0ce037666318adbb2f98a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/71f4947b764a3d5431826a7795e01f38/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/71f4947b764a3d5431826a7795e01f38/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/7fa59b3e19a49a06e0c80cdef919ea23/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/7fa59b3e19a49a06e0c80cdef919ea23/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/09b8bb4ff08725e333b8d59e9d409026/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/09b8bb4ff08725e333b8d59e9d409026/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/dcea57330ec81283479855db0f7ccb2e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/dcea57330ec81283479855db0f7ccb2e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/afdf9ac9be578bc1084a5e4f0c6569ae/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/afdf9ac9be578bc1084a5e4f0c6569ae/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/291656cf059cfff075936662ed04610e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/291656cf059cfff075936662ed04610e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b5d197451b30513c3ec021b68410dd2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b5d197451b30513c3ec021b68410dd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/715cea0ccbb23a601adb3037422ed06f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/715cea0ccbb23a601adb3037422ed06f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b31526413d529583b455c7b36db18428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/b31526413d529583b455c7b36db18428/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ff4d2bf4433832c5b1945633d7759e26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/ff4d2bf4433832c5b1945633d7759e26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0c34f8eff075a609341b85f021e8058b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/0c34f8eff075a609341b85f021e8058b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/da1f4479287c9e212af77d72b9d0e656/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/da1f4479287c9e212af77d72b9d0e656/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/697241eddeaeed1cad8a8c2a523ddff4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/697241eddeaeed1cad8a8c2a523ddff4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1cb91cf9363c8550b96e25d55d1f36d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/1cb91cf9363c8550b96e25d55d1f36d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/24b267b9be3080adfc7d541c5f71392d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/24b267b9be3080adfc7d541c5f71392d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/02b3f401929e07f2c950e4e67b28b271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/02b3f401929e07f2c950e4e67b28b271/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/38fa0fa7d10cd6f2d4b84442a039b619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/38fa0fa7d10cd6f2d4b84442a039b619/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/87f7b4783400bdc9a872b5aa936c948a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/87f7b4783400bdc9a872b5aa936c948a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb99620fa34d088d80b2f826a74c3bd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/eb99620fa34d088d80b2f826a74c3bd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/96b82c1a1f2d230c5307158dc5603e4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/96b82c1a1f2d230c5307158dc5603e4f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d206cce05c81b0a134b16b383480dd37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d206cce05c81b0a134b16b383480dd37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e5bb57a99d21b3cc1f6c8af0b67c3fec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e5bb57a99d21b3cc1f6c8af0b67c3fec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4deb782df368c264065be8010ddc809b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/4deb782df368c264065be8010ddc809b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b7d7428ae03913f36f2b78b428c572f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7b7d7428ae03913f36f2b78b428c572f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/112bbef29da1c7f51c5b90bbb6190e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/112bbef29da1c7f51c5b90bbb6190e6a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fc703cda4342e652bbf3db65e7074388/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fc703cda4342e652bbf3db65e7074388/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c52b05f1f898d50660e0cc3f8e9fcafa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c52b05f1f898d50660e0cc3f8e9fcafa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/36a94585c0d091f48fc3e0e3103f8fa1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/36a94585c0d091f48fc3e0e3103f8fa1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2ac541cb8ea47cff54ac7d0266c39732/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2ac541cb8ea47cff54ac7d0266c39732/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c9623d106ded959a05fefefa0715d181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c9623d106ded959a05fefefa0715d181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2578a7a878b3f4bbe9232593ddc95383/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2578a7a878b3f4bbe9232593ddc95383/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ae7f672a2feeb4c0761a4623f5b66fc7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/regopantes/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/ae7f672a2feeb4c0761a4623f5b66fc7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/98fa0eae657d2520c449cca714931b46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/98fa0eae657d2520c449cca714931b46/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/92e71000594c0d4961b2efe35eb0711e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/92e71000594c0d4961b2efe35eb0711e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0eef26189a3c07b690f030faede112ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/0eef26189a3c07b690f030faede112ef/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8af8893c5db758374a7b7f6d00fe7d57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8af8893c5db758374a7b7f6d00fe7d57/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0af4db6affa55e337ba8e76df1cf60f2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0af4db6affa55e337ba8e76df1cf60f2/AndroidManifest.xml:5:5-44
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.google.android.gms:play-services-ads:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/dc975d22691dd814f4335e5a9dc74d2b/AndroidManifest.xml:23:9-59
+		ADDED from [com.google.android.gms:play-services-ads:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/b4e76a2da72ce052c4d580a9de8c8bf2/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
@@ -393,156 +393,156 @@ INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/And
 		ADDED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 		INJECTED from /home/regopantes/ProjectApps/PlayStore/Cari Weton/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/cf3dabc4cc39c4079adc20addbdced69/AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:24:5-68
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/c1597924e581272437dfb1c79efa9ff4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:24:22-65
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:27:9-31:19
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:29:9-35:19
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:29:9-35:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:31:13-37
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:31:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:27:18-89
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:27:18-89
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:28:13-30:85
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:28:13-30:85
 	android:value
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:30:17-82
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:30:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/ddfdcc50057bbc50468ff6accbd958ae/AndroidManifest.xml:29:17-139
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/41f3280533a42e163d712756a4a63e3d/AndroidManifest.xml:29:17-139
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:26:5-110
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:26:5-110
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:26:5-110
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:26:22-107
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:31:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:30:13-85
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:30:13-85
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:34:9-42:20
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:29:9-37:20
-MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/22f990f958a9161ae8201a6d0dcd6452/AndroidManifest.xml:29:9-37:20
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/e9d3da91564fcce2e4f8a9b64d9717f1/AndroidManifest.xml:29:9-37:20
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:36:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:36:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:37:13-36
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:37:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:38:13-69
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:38:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:35:13-100
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:35:13-100
 intent-filter#action:name:com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:39:13-41:29
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:39:13-41:29
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:40:17-79
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:40:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:40:25-76
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:40:25-76
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:44:9-47:40
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:44:9-47:40
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:46:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:46:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:47:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:47:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:45:13-84
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:45:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:48:9-52:72
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:48:9-52:72
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:50:13-35
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:50:13-35
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:51:13-37
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:51:13-37
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:52:13-69
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:52:13-69
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/49d897bda4b67a458717f8cc57afdfeb/AndroidManifest.xml:49:13-87
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/d2dbb867798f3c2edb351f543e663618/AndroidManifest.xml:49:13-87
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c496018f182955961d5d2c83ec25644f/AndroidManifest.xml:28:9-34:19
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/354c0d1843695f0e5482c7ee9008752a/AndroidManifest.xml:28:9-34:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c496018f182955961d5d2c83ec25644f/AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/354c0d1843695f0e5482c7ee9008752a/AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/c496018f182955961d5d2c83ec25644f/AndroidManifest.xml:29:13-82
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/354c0d1843695f0e5482c7ee9008752a/AndroidManifest.xml:29:13-82
 provider#com.google.android.gms.ads.MobileAdsInitProvider
-ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:35:9-39:39
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:35:9-39:39
 	android:authorities
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:37:13-73
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:37:13-73
 	android:exported
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:38:13-37
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:38:13-37
 	android:initOrder
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:39:13-36
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:39:13-36
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/e7b6b5e9c49ed3b7b765f3ea7f984273/AndroidManifest.xml:36:13-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/ba60d98798c81f6232a36d7578b2c98d/AndroidManifest.xml:36:13-76
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:26:5-82
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:26:5-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:26:22-79
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:26:22-79
 meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
-ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:32:13-34:85
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:32:13-34:85
 	android:value
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:34:17-82
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:34:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:33:17-96
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:33:17-96
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:37:9-44:20
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:37:9-44:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:39:13-36
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:39:13-36
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:40:13-73
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:40:13-73
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:38:13-78
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:38:13-78
 intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:41:13-43:29
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:41:13-43:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:42:17-81
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:42:17-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:42:25-78
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:42:25-78
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:50:9-56:19
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:50:9-56:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:52:13-36
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:51:13-77
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:51:13-77
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:53:13-55:29
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:53:13-55:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:53:28-51
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:53:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:54:17-80
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:54:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/afc74894252aab875a62b4dff560df90/AndroidManifest.xml:54:25-77
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6d3582edd51d454d18a7c45cd2861a52/AndroidManifest.xml:54:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:10:9-14:39
+ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:10:9-14:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:12:13-72
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:12:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:13:13-37
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:13:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:14:13-36
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/f3106b2bcce4ba14271670d75a1c00c0/AndroidManifest.xml:11:13-77
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /home/regopantes/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/4b5bee3b60e8709174c2ef09e7e09e46/AndroidManifest.xml:11:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ff9e7583e91bc07b3d4f879e213d77b0/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/7d16674f7d58ff1f8797115edb377a4e/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/382015c28d6a2063a6467ce4bc555436/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b5d197451b30513c3ec021b68410dd2/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/382015c28d6a2063a6467ce4bc555436/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b5d197451b30513c3ec021b68410dd2/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/382015c28d6a2063a6467ce4bc555436/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/regopantes/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/6b5d197451b30513c3ec021b68410dd2/AndroidManifest.xml:24:13-58

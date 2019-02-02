@@ -1486,6 +1486,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string appbar_scrolling_view_behavior
+string banner_admob
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
@@ -1519,6 +1520,7 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
+string inters_admob
 string jumatKliwonJodoh
 string jumatKliwonPekerjaan
 string jumatKliwonRejeki
